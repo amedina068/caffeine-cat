@@ -1,0 +1,14 @@
+"Your Mac is awake" = "Dein Mac ist wach";
+"Your Mac can sleep" = "Dein Mac darf schlafen";
+"Give it coffee" = "Kaffee geben";
+"Let it sleep" = "Schlafen lassen";
+"Awake for %@" = "Wach seit %@";
+"Give it coffee to keep it awake" = "Gib ihm Kaffee, damit er wach bleibt";
+"Keep the display on" = "Bildschirm anlassen";
+"Display on" = "Bildschirm an";
+"Open window" = "Fenster öffnen";
+"Quit" = "Beenden";
+"Cat drinking coffee" = "Katze trinkt Kaffee";
+"Sleeping cat" = "Schlafende Katze";
+"Could not start caffeinate: %@" = "caffeinate konnte nicht gestartet werden: %@";
+"caffeinate stopped on its own (code %lld)." = "caffeinate wurde unerwartet beendet (Code %lld).";

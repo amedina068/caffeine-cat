@@ -1,0 +1,14 @@
+"Your Mac is awake" = "你的 Mac 醒着";
+"Your Mac can sleep" = "你的 Mac 可以睡觉了";
+"Give it coffee" = "给它咖啡";
+"Let it sleep" = "让它睡觉";
+"Awake for %@" = "已醒着 %@";
+"Give it coffee to keep it awake" = "给它咖啡，让它保持清醒";
+"Keep the display on" = "保持屏幕常亮";
+"Display on" = "屏幕常亮";
+"Open window" = "打开窗口";
+"Quit" = "退出";
+"Cat drinking coffee" = "正在喝咖啡的猫";
+"Sleeping cat" = "正在睡觉的猫";
+"Could not start caffeinate: %@" = "无法启动 caffeinate：%@";
+"caffeinate stopped on its own (code %lld)." = "caffeinate 意外退出（代码 %lld）。";

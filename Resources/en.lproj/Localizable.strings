@@ -1,0 +1,14 @@
+"Your Mac is awake" = "Your Mac is awake";
+"Your Mac can sleep" = "Your Mac can sleep";
+"Give it coffee" = "Give it coffee";
+"Let it sleep" = "Let it sleep";
+"Awake for %@" = "Awake for %@";
+"Give it coffee to keep it awake" = "Give it coffee to keep it awake";
+"Keep the display on" = "Keep the display on";
+"Display on" = "Display on";
+"Open window" = "Open window";
+"Quit" = "Quit";
+"Cat drinking coffee" = "Cat drinking coffee";
+"Sleeping cat" = "Sleeping cat";
+"Could not start caffeinate: %@" = "Could not start caffeinate: %@";
+"caffeinate stopped on its own (code %lld)." = "caffeinate stopped on its own (code %lld).";

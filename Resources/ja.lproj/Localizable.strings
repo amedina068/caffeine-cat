@@ -1,0 +1,14 @@
+"Your Mac is awake" = "Macは起きています";
+"Your Mac can sleep" = "Macはスリープできます";
+"Give it coffee" = "コーヒーをあげる";
+"Let it sleep" = "寝かせる";
+"Awake for %@" = "起きてから %@";
+"Give it coffee to keep it awake" = "コーヒーをあげて起こしておこう";
+"Keep the display on" = "画面をつけたままにする";
+"Display on" = "画面オン";
+"Open window" = "ウインドウを開く";
+"Quit" = "終了";
+"Cat drinking coffee" = "コーヒーを飲む猫";
+"Sleeping cat" = "眠っている猫";
+"Could not start caffeinate: %@" = "caffeinate を起動できませんでした: %@";
+"caffeinate stopped on its own (code %lld)." = "caffeinate が予期せず終了しました（コード %lld）。";

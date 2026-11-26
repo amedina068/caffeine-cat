@@ -2,6 +2,8 @@
 
 Caffeine Cat is a small macOS app that keeps the Mac awake. It runs `/usr/bin/caffeinate` while the cat drinks coffee.
 
+<p align="center"><img src="docs/cat-coffee.gif" alt="The pixel-art cat drinks coffee while the Mac stays awake" width="200"></p>
+
 The app has a window and a menu bar item. The menu bar item opens a small panel with the same cat. You can turn the cat on and off from both. The colors follow the light or dark appearance of the system.
 
 ## Build and install
@@ -14,7 +16,7 @@ The build needs the Xcode command line tools and macOS 14 or later.
 ## How it works
 
 - When the cat is awake, the app runs `caffeinate -dims -w <app pid>`.
-- If "Mantener la pantalla encendida" is off, the app uses `-ims`. The screen can then turn off, but the Mac does not sleep.
+- If "Keep the display on" is off, the app uses `-ims`. The screen can then turn off, but the Mac does not sleep.
 - The `-w` flag connects caffeinate to the app. If the app stops or crashes, caffeinate stops too.
 - If you close the window, the app stays in the menu bar. It does not show in the Dock or in Cmd+Tab until you open the window again. To stop the app, use "Quit" in the menu bar panel.
 
@@ -44,3 +46,7 @@ python3 tools/slice_sprites.py tools/spritesheet.png Resources/frames
 ```
 
 The script needs Pillow. It also writes the app icon to `Resources/icon_1024.png`.
+
+## License
+
+MIT. See `LICENSE`.
